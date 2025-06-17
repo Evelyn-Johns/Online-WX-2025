@@ -37,5 +37,11 @@
 - Publish the branch
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/54a1bfe0-6963-4fb9-b982-76f7bc776997" />
 
+### Commit!
+
+- When you make changes on JupyterLab they will appear in GitHub Desktop, you can commit to your branch as often or as little as you like!
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/3ea393f3-f508-428a-a8eb-fd121483b648" />
+
+
 
 
