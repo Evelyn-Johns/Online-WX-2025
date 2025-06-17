@@ -40,6 +40,8 @@
 ### Commit!
 
 - When you make changes on JupyterLab they will appear in GitHub Desktop, you can commit to your branch as often or as little as you like!
+- We use GitHub for version control - so a commit with a descriptive comment every time a new feature is added is very useful for development.
+- When you work on a project with others, individual branches are often dedicated to each collaborator and what they are working on - GitHub provides functionality to merge these together at the end of development.
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/3ea393f3-f508-428a-a8eb-fd121483b648" />
 
 
