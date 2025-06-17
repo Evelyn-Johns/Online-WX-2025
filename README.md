@@ -44,6 +44,13 @@
 - When you work on a project with others, individual branches are often dedicated to each collaborator and what they are working on - GitHub provides functionality to merge these together at the end of development.
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/3ea393f3-f508-428a-a8eb-fd121483b648" />
 
+### Push! 
+
+- So we can see your work, push commits to the repository!
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/d4d740f0-4dbf-48f6-9a71-0ec2786b6eff" />
+
+
 
 
 
