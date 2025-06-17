@@ -50,6 +50,11 @@
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/d4d740f0-4dbf-48f6-9a71-0ec2786b6eff" />
 
+### Extras
+- GitHub can also help you organise your project:
+  - The "Issues" tab can help you keep track of bugs, hurdles that you'd like some help with etc.
+  - The "Projects" tab can produce an interactive to-do list where you can assign tasks and track progress.
+
 
 
 
